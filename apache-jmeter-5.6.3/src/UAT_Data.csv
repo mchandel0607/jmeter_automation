@@ -1,0 +1,4 @@
+S.No,Stage,user_id,borrower_name,vtc_id,pincode,marital_status,Account type(HDFC/OTHER/NO),Account details,ifsc_code,account_no_los,loan_product_id,user_id_CFE,office_id,product_document_id,product_document_id_1,product_document_id_2,product_document_id_3,user_id_L6,employee_id_L6,user_id_FLCC,emp_id_FLCC
+1,Customer Onboarding,38,HARISH,43521,560002,MARRIED,HDFC,50100114499585,NA,44,50100114472191,23818,2,965,973,752,950,154,136,133,115
+1,Customer Onboarding,38,HARISH,43521,560002,MARRIED,HDFC,50100114499585,NA,44,50100114472191,23818,2,965,973,752,950,154,136,133,115
+1,Customer Onboarding,38,HARISH,43521,560002,MARRIED,HDFC,50100114499585,NA,44,50100114472191,23818,2,965,973,752,950,154,136,133,115

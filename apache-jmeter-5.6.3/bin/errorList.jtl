@@ -1,0 +1,361 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1729241910989,72,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-1",text,false,,1156,1294,11,11,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,72,0,0
+1729241909862,801,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-1",,false,,5780,6470,11,11,null,801,398,13
+1729241911020,69,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-6",text,false,,1160,1325,11,11,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,69,0,0
+1729241911021,68,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-3",text,false,,1156,1295,11,11,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,68,0,0
+1729241910402,285,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-6",,false,,5800,6625,11,11,null,285,403,5
+1729241910082,632,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-3",,false,,5780,6475,11,11,null,632,376,12
+1729241911102,69,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-5",text,false,,1160,1345,9,9,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,69,0,0
+1729241910297,473,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-5",,false,,5800,6725,9,9,null,473,401,4
+1729241911157,73,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-4",text,false,,1156,1284,9,9,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,73,0,0
+1729241910188,629,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-4",,false,,5780,6420,9,9,null,629,413,4
+1729241911036,268,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-2",text,false,,1156,1286,9,9,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,268,0,0
+1729241909976,936,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-2",,false,,5780,6430,9,9,null,936,393,4
+1729241911248,68,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-7",text,false,,1160,1325,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,68,0,0
+1729241910510,409,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-7",,false,,5800,6625,8,8,null,409,398,38
+1729241911399,45,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-9",text,false,,1160,1325,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,45,0,0
+1729241910725,305,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-9",,false,,5800,6625,8,8,null,305,414,21
+1729241911474,43,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-8",text,false,,1160,1325,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,43,0,0
+1729241910617,494,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-8",,false,,5800,6625,8,8,null,494,406,9
+1729241911610,64,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-11",text,false,,1160,1325,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,64,0,0
+1729241910969,300,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-11",,false,,5800,6625,8,8,null,300,405,7
+1729241911704,66,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-10",text,false,,1160,1325,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,66,0,0
+1729241910846,505,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-10",,false,,5800,6625,8,8,null,505,419,5
+1729241911749,67,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-12",text,false,,1160,1325,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,67,0,0
+1729241911086,336,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-12",,false,,5800,6625,7,7,null,336,394,5
+1729241911886,50,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-13",text,false,,1160,1325,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,50,0,0
+1729241911192,335,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-13",,false,,5800,6625,7,7,null,335,409,6
+1729241911962,61,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-14",text,false,,1160,1325,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,61,0,0
+1729241911299,334,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-14",,false,,5800,6625,7,7,null,334,390,13
+1729241912038,77,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-15",text,false,,1160,1325,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,77,0,0
+1729241911405,311,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-15",,false,,5800,6625,7,7,null,311,405,7
+1729241912159,69,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-16",text,false,,1160,1325,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,69,0,0
+1729241911514,317,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-16",,false,,5800,6625,7,7,null,317,397,9
+1729241912296,71,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-17",text,false,,1160,1325,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,71,0,0
+1729241911632,346,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-17",,false,,5800,6625,7,7,null,346,389,9
+1729241912449,49,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-18",text,false,,1160,1325,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,49,0,0
+1729241911743,360,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-18",,false,,5800,6625,7,7,null,360,395,16
+1729241912491,57,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-19",text,false,,1160,1325,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,57,0,0
+1729241911859,290,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-19",,false,,5800,6625,7,7,null,290,399,4
+1729241912628,67,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-20",text,false,,1160,1325,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,67,0,0
+1729241911969,324,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-20",,false,,5800,6625,7,7,null,324,403,4
+1729241912827,59,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-22",text,false,,1160,1325,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,59,0,0
+1729241912198,280,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-22",,false,,5800,6625,8,8,null,280,409,8
+1729241912781,106,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-21",text,false,,1160,1325,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,106,0,0
+1729241912076,404,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-21",,false,,5800,6625,8,8,null,404,407,5
+1729241912964,82,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-23",text,false,,1160,1366,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,82,0,0
+1729241912317,340,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-23",,false,,5800,6830,7,7,null,340,390,14
+1729241913130,114,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-24",text,false,,1160,1363,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,114,0,0
+1729241912421,426,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-24",,false,,5800,6815,8,8,null,426,397,11
+1729241913191,122,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-25",text,false,,1156,1288,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,122,0,0
+1729241912528,389,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-25",,false,,5780,6440,8,8,null,389,397,5
+1729241913360,70,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-26",text,false,,1156,1290,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,70,0,0
+1729241912634,386,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-26",,false,,5780,6450,8,8,null,386,410,7
+1729241913542,105,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-27",text,false,,1156,1288,9,9,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,105,0,0
+1729241912741,510,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-27",,false,,5780,6440,9,9,null,510,397,5
+1729241913557,109,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-28",text,false,,1156,1289,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,109,0,0
+1729241912848,413,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-28",,false,,5780,6445,8,8,null,413,405,8
+1729241913740,83,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-29",text,false,,1156,1284,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,83,0,0
+1729241912953,462,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-29",,false,,5780,6420,8,8,null,462,409,8
+1729241913771,71,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-30",text,false,,1156,1293,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,71,0,0
+1729241913059,384,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-30",,false,,5780,6465,8,8,null,384,400,9
+1729241913925,77,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-31",text,false,,1156,1300,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,77,0,0
+1729241913168,424,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-31",,false,,5780,6500,8,8,null,424,410,10
+1729241914062,64,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-32",text,false,,1156,1288,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,64,0,0
+1729241913277,446,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-32",,false,,5780,6440,8,8,null,446,403,16
+1729241914080,61,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-33",text,false,,1156,1287,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,61,0,0
+1729241913396,341,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-33",,false,,5780,6435,7,7,null,341,417,4
+1729241914246,87,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-34",text,false,,1156,1284,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,87,0,0
+1729241913502,419,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-34",,false,,5780,6420,8,8,null,419,412,16
+1729241914277,59,Final Loop - CreateOrUpdateCsdHierElmVtc,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,"Creation - Role, Employee and Office 1-35",text,false,,2699,0,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,0,0,0
+1729241913619,299,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-35",,false,,7323,5160,7,7,null,240,422,4
+1729241915070,56,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-42",text,false,,1156,1288,1,1,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,56,0,0
+1729241914348,369,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-42",,false,,5780,6440,1,1,null,369,410,17
+1729242984974,396,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-1",text,false,,1156,1294,25,25,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,396,0,0
+1729242982642,2324,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-1",,false,,5780,6470,25,25,null,2324,405,12
+1729242984974,401,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-3",text,false,,1156,1295,24,24,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,401,0,0
+1729242982853,2120,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-3",,false,,5780,6475,24,24,null,2120,403,5
+1729242985339,134,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-5",text,false,,1160,1345,24,24,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,134,0,0
+1729242983065,2008,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-5",,false,,5800,6725,24,24,null,2008,400,5
+1729242985065,413,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-2",text,false,,1156,1286,23,23,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,413,0,0
+1729242982747,2344,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-2",,false,,5780,6430,23,23,null,2343,387,5
+1729242985534,82,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-8",text,false,,1160,1325,23,23,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,82,0,0
+1729242983399,1818,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-8",,false,,5800,6625,23,23,null,1818,399,3
+1729242985564,117,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-9",text,false,,1160,1325,23,23,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,117,0,0
+1729242983508,1768,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-9",,false,,5800,6625,23,23,null,1768,406,7
+1729242985625,119,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-12",text,false,,1160,1325,23,23,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,119,0,0
+1729242983839,1507,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-12",,false,,5800,6625,23,23,null,1507,399,6
+1729242985670,88,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-11",text,false,,1160,1325,22,22,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,88,0,0
+1729242985655,103,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-4",text,false,,1156,1284,22,22,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,103,0,0
+1729242983732,1613,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-11",,false,,5800,6625,22,22,null,1613,414,4
+1729242982958,2398,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-4",,false,,5780,6420,22,22,null,2398,403,5
+1729242985670,112,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-15",text,false,,1160,1325,20,20,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,112,0,0
+1729242984189,1182,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-15",,false,,5800,6625,20,20,null,1182,411,8
+1729242985761,94,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-7",text,false,,1160,1325,20,20,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,94,0,0
+1729242985746,109,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-6",text,false,,1160,1325,20,20,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,109,0,0
+1729242983175,2279,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-6",,false,,5800,6625,20,20,null,2279,402,6
+1729242983292,2168,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-7",,false,,5800,6625,20,20,null,2168,396,5
+1729242985761,105,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-16",text,false,,1160,1325,18,18,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,105,0,0
+1729242984309,1166,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-16",,false,,5800,6625,18,18,null,1166,391,5
+1729242985761,124,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-14",text,false,,1160,1325,17,17,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,124,0,0
+1729242984067,1415,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-14",,false,,5800,6625,17,17,null,1415,404,12
+1729242985838,111,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-13",text,false,,1160,1325,17,17,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,111,0,0
+1729242983947,1584,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-13",,false,,5800,6625,17,17,null,1584,419,8
+1729242985945,83,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-17",text,false,,1160,1325,16,16,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,83,0,0
+1729242985960,68,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-24",text,false,,1160,1363,16,16,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,68,0,0
+1729242984414,1210,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-17",,false,,5800,6625,16,16,null,1210,404,5
+1729242985945,83,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-10",text,false,,1160,1325,16,16,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,83,0,0
+1729242985181,446,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-24",,false,,5800,6815,16,16,null,446,401,5
+1729242983625,2011,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-10",,false,,5800,6625,16,16,null,2011,393,6
+1729242986005,82,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-21",text,false,,1160,1325,14,14,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,82,0,0
+1729242984859,819,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-21",,false,,5800,6625,14,14,null,819,409,12
+1729242986021,68,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-23",text,false,,1160,1366,13,13,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,68,0,0
+1729242985071,621,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-23",,false,,5800,6830,13,13,null,621,398,6
+1729242985990,100,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-22",text,false,,1160,1325,13,13,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,100,0,0
+1729242984965,725,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-22",,false,,5800,6625,13,13,null,725,400,6
+1729242986021,94,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-18",text,false,,1160,1325,11,11,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,94,0,0
+1729242984522,1190,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-18",,false,,5800,6625,11,11,null,1190,404,5
+1729242986112,56,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-20",text,false,,1160,1325,11,11,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,56,0,0
+1729242984752,1016,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-20",,false,,5800,6625,11,11,null,1016,401,8
+1729242986112,74,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-19",text,false,,1160,1325,10,10,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,74,0,0
+1729242984631,1158,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-19",,false,,5800,6625,10,10,null,1158,397,12
+1729242986202,68,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-25",text,false,,1156,1288,9,9,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,68,0,0
+1729242985299,565,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-25",,false,,5780,6440,9,9,null,565,407,4
+1729242986217,59,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-26",text,false,,1156,1290,9,9,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,59,0,0
+1729242985404,477,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-26",,false,,5780,6450,9,9,null,477,396,6
+1729242986309,59,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-27",text,false,,1156,1288,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,59,0,0
+1729242985509,457,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-27",,false,,5780,6440,8,8,null,457,403,12
+1729242986385,64,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-28",text,false,,1156,1289,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,64,0,0
+1729242985616,439,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-28",,false,,5780,6445,8,8,null,439,395,20
+1729242986461,58,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-29",text,false,,1156,1284,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,58,0,0
+1729242985722,402,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-29",,false,,5780,6420,8,8,null,402,396,5
+1729242986522,64,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-30",text,false,,1156,1293,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,64,0,0
+1729242985830,365,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-30",,false,,5780,6465,7,7,null,365,392,5
+1729242986659,67,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-31",text,false,,1156,1300,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,67,0,0
+1729242985939,378,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-31",,false,,5780,6500,8,8,null,378,410,38
+1729242986720,58,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-32",text,false,,1156,1288,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,58,0,0
+1729242986057,320,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-32",,false,,5780,6440,7,7,null,320,401,9
+1729242986826,55,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-33",text,false,,1156,1287,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,55,0,0
+1729242986163,317,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-33",,false,,5780,6435,7,7,null,317,401,10
+1729242986947,101,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-34",text,false,,1156,1284,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,101,0,0
+1729242986273,364,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-34",,false,,5780,6420,8,8,null,364,411,8
+1729242987040,73,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-35",text,false,,1156,1290,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,73,0,0
+1729242986391,302,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-35",,false,,5780,6450,7,7,null,302,420,4
+1729242987160,75,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-36",text,false,,1156,1288,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,75,0,0
+1729242986498,349,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-36",,false,,5780,6440,7,7,null,349,389,11
+1729242987299,118,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-37",text,false,,1156,1286,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,118,0,0
+1729242986603,424,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-37",,false,,5780,6430,8,8,null,424,391,5
+1729242987374,107,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-38",text,false,,1156,1287,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,107,0,0
+1729242986709,377,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-38",,false,,5780,6435,7,7,null,377,395,5
+1729242987540,85,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-39",text,false,,1156,1291,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,85,0,0
+1729242986817,408,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-39",,false,,5780,6455,8,8,null,408,400,7
+1729242987708,57,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-40",text,false,,1156,1292,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,57,0,0
+1729242986922,433,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-40",,false,,5780,6460,8,8,null,433,411,5
+1729242987814,79,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-41",text,false,,1156,1287,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,79,0,0
+1729242987031,453,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-41",,false,,5780,6435,8,8,null,453,413,9
+1729242987907,70,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-42",text,false,,1156,1288,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,70,0,0
+1729242987153,422,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-42",,false,,5780,6440,8,8,null,422,403,8
+1729242988044,60,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-43",text,false,,1156,1287,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,60,0,0
+1729242987261,413,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-43",,false,,5780,6435,8,8,null,413,430,10
+1729242988120,73,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-44",text,false,,1156,1286,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,73,0,0
+1729242987380,386,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-44",,false,,5780,6430,8,8,null,386,428,4
+1729242988212,75,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-45",text,false,,1156,1287,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,75,0,0
+1729242987504,380,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-45",,false,,5780,6435,8,8,null,380,404,7
+1729242988334,69,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-46",text,false,,1156,1290,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,69,0,0
+1729242987621,404,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-46",,false,,5780,6450,7,7,null,404,379,10
+1729242988472,56,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-47",text,false,,1156,1288,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,56,0,0
+1729242987727,407,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-47",,false,,5780,6440,8,8,null,407,414,11
+1729242988518,65,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-48",text,false,,1156,1287,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,65,0,0
+1729242987836,352,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-48",,false,,5780,6435,7,7,null,352,395,7
+1729242988671,107,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-49",text,false,,1156,1296,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,107,0,0
+1729242987948,446,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-49",,false,,5780,6480,8,8,null,446,385,6
+1729242988731,101,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-50",text,false,,1156,1285,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,101,0,0
+1729242988052,378,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-50",,false,,5780,6425,7,7,null,378,403,6
+1729242988901,81,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-51",text,false,,1156,1289,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,81,0,0
+1729242988173,380,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-51",,false,,5780,6445,8,8,null,380,430,5
+1729242989022,78,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-52",text,false,,1156,1285,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,78,0,0
+1729242988285,404,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-52",,false,,5780,6425,8,8,null,404,411,11
+1729242989159,73,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-53",text,false,,1156,1283,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,73,0,0
+1729242988406,406,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-53",,false,,5780,6415,8,8,null,406,420,11
+1729242989235,72,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-54",text,false,,1156,1293,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,72,0,0
+1729242988527,387,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-54",,false,,5780,6465,8,8,null,387,393,6
+1729242989389,70,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-55",text,false,,1156,1286,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,70,0,0
+1729242988649,395,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-55",,false,,5780,6430,8,8,null,395,432,6
+1729242989482,74,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-56",text,false,,1156,1293,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,74,0,0
+1729242988767,383,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-56",,false,,5780,6465,8,8,null,383,407,5
+1729242989590,70,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-57",text,false,,1156,1295,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,70,0,0
+1729242988875,375,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-57",,false,,5780,6475,8,8,null,375,410,16
+1729242989666,74,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-58",text,false,,1156,1289,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,74,0,0
+1729242988981,363,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-58",,false,,5780,6445,7,7,null,363,396,8
+1729242989758,103,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-59",text,false,,1156,1288,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,103,0,0
+1729242989088,387,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-59",,false,,5780,6440,8,8,null,387,387,14
+1729242989835,198,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-60",text,false,,1156,1283,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,198,0,0
+1729242989194,449,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-60",,false,,5780,6415,8,8,null,449,390,8
+1729242990112,73,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-61",text,false,,1156,1287,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,73,0,0
+1729242989303,479,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-61",,false,,5780,6435,8,8,null,479,404,5
+1729242990220,65,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-62",text,false,,1156,1290,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,65,0,0
+1729242989414,463,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-62",,false,,5780,6450,8,8,null,463,408,8
+1729242990265,76,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-63",text,false,,1156,1287,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,76,0,0
+1729242989535,398,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-63",,false,,5780,6435,8,8,null,397,408,10
+1729242990417,64,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-64",text,false,,1156,1294,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,64,0,0
+1729242989641,445,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-64",,false,,5780,6470,8,8,null,444,413,4
+1729242990524,71,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-65",text,false,,1156,1289,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,71,0,0
+1729242989752,432,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-65",,false,,5780,6445,8,8,null,432,412,7
+1729242990616,60,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-66",text,false,,1156,1289,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,60,0,0
+1729242989860,415,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-66",,false,,5780,6445,8,8,null,415,402,6
+1729242990661,69,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-67",text,false,,1156,1291,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,69,0,0
+1729242989981,351,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-67",,false,,5780,6455,7,7,null,351,398,6
+1729242990844,59,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-68",text,false,,1156,1291,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,59,0,0
+1729242990090,352,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-68",,false,,5780,6455,8,8,null,352,461,13
+1729242990890,64,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-69",text,false,,1156,1291,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,64,0,0
+1729242990199,347,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-69",,false,,5780,6455,7,7,null,347,409,7
+1729242991024,73,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-70",text,false,,1156,1290,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,73,0,0
+1729242990318,360,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-70",,false,,5780,6450,7,7,null,360,419,7
+1729242991116,64,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-71",text,false,,1156,1292,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,64,0,0
+1729242990439,331,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-71",,false,,5780,6460,7,7,null,331,411,6
+1729242991238,55,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-72",text,false,,1156,1280,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,55,0,0
+1729242990545,313,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-72",,false,,5780,6400,7,7,null,313,436,12
+1729242991361,84,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-73",text,false,,1156,1290,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,84,0,0
+1729242990657,364,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-73",,false,,5780,6450,8,8,null,364,424,5
+1729242991483,69,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-74",text,false,,1156,1298,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,69,0,0
+1729242990775,350,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-74",,false,,5780,6490,8,8,null,350,466,8
+1729242991544,61,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-75",text,false,,1156,1286,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,61,0,0
+1729242990885,305,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-75",,false,,5780,6430,7,7,null,305,415,3
+1729242991682,83,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-76",text,false,,1156,1291,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,83,0,0
+1729242990999,323,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-76",,false,,5780,6455,7,7,null,323,444,5
+1729242991865,123,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-77",text,false,,1156,1286,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,123,0,0
+1729242991911,92,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-78",text,false,,1156,1283,9,9,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,92,0,0
+1729242991107,431,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-77",,false,,5780,6430,8,8,null,431,490,7
+1729242991215,372,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-78",,false,,5780,6415,9,9,null,372,441,15
+1729242992111,100,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-79",text,false,,1156,1290,9,9,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,100,0,0
+1729242991319,456,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-79",,false,,5780,6450,9,9,null,456,437,8
+1729242992295,123,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-81",text,false,,1156,1290,9,9,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,123,0,0
+1729242991540,472,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-81",,false,,5780,6450,9,9,null,472,406,8
+1729242992295,124,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-80",text,false,,1156,1285,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,124,0,0
+1729242991429,523,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-80",,false,,5780,6425,8,8,null,523,467,8
+1729242992510,131,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-82",text,false,,1156,1281,9,9,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,131,0,0
+1729242991657,568,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-82",,false,,5780,6405,9,9,null,568,417,4
+1729242992540,120,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-83",text,false,,1156,1294,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,120,0,0
+1729242991767,445,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-83",,false,,5780,6470,8,8,null,445,449,6
+1729242992767,96,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-85",text,false,,1156,1286,9,9,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,96,0,0
+1729242992752,111,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-84",text,false,,1156,1288,9,9,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,111,0,0
+1729242991999,449,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-85",,false,,5780,6430,9,9,null,449,416,6
+1729242991886,570,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-84",,false,,5780,6440,9,9,null,570,408,11
+1729242992934,181,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-86",text,false,,1156,1284,10,10,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,181,0,0
+1729242992103,601,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-86",,false,,5780,6420,10,10,null,601,412,12
+1729242993211,161,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-88",text,false,,1156,1290,11,11,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,161,0,0
+1729242992319,642,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-88",,false,,5780,6450,11,11,null,642,412,8
+1729242993180,289,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-87",text,false,,1156,1300,11,11,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,289,0,0
+1729242992209,820,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-87",,false,,5780,6500,11,11,null,820,440,9
+1729242993502,74,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-90",text,false,,1156,1289,11,11,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,74,0,0
+1729242992544,596,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-90",,false,,5780,6445,11,11,null,596,460,9
+1729242993550,127,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-89",text,false,,1156,1287,11,11,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,127,0,0
+1729242992438,830,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-89",,false,,5780,6435,11,11,null,830,410,5
+1729242993762,90,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-91",text,false,,1156,1306,11,11,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,90,0,0
+1729242992664,777,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-91",,false,,5780,6530,11,11,null,777,412,8
+1729242993764,97,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-92",text,false,,1156,1286,10,10,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,97,0,0
+1729242992773,692,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-92",,false,,5780,6430,10,10,null,692,396,27
+1729242993945,119,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-94",text,false,,1156,1288,11,11,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,119,0,0
+1729242993945,119,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-93",text,false,,1156,1291,11,11,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,119,0,0
+1729242992881,760,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-93",,false,,5780,6455,11,11,null,760,423,43
+1729242992990,672,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-94",,false,,5780,6440,11,11,null,672,402,9
+1729242994112,82,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-95",text,false,,1156,1287,10,10,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,82,0,0
+1729242993108,682,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-95",,false,,5780,6435,10,10,null,682,404,40
+1729242994280,75,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-98",text,false,,1156,1292,11,11,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,75,0,0
+1729242993447,492,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-98",,false,,5780,6460,11,11,null,492,417,26
+1729242994252,107,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-97",text,false,,1156,1287,10,10,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,107,0,0
+1729242993329,621,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-97",,false,,5780,6435,10,10,null,621,409,7
+1729242994265,127,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-96",text,false,,1156,1292,9,9,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,127,0,0
+1729242993217,746,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-96",,false,,5780,6460,9,9,null,746,429,7
+1729242993553,477,VTC,,"Number of samples in transaction : 6, number of failing samples : 4","Creation - Role, Employee and Office 1-99",,false,,4624,5176,11,11,null,477,382,28
+1729242995272,45,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-107",text,false,,1156,1290,1,1,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,45,0,0
+1729242994421,479,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-107",,false,,5780,6450,1,1,null,479,418,22
+1729247133985,31,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-1",text,false,,1159,1284,1,1,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,31,0,0
+1729247133287,265,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-1",,false,,5795,6421,1,1,null,265,465,7
+1729247459098,28,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-1",text,false,,1159,1284,1,1,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,28,0,0
+1729247423688,34978,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-1",,false,,5791,6421,1,1,null,34978,460,4
+1729250157460,31,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-2",text,false,,1126,1294,11,11,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,31,0,0
+1729250156488,536,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-2",,false,,5630,6470,11,11,null,536,468,6
+1729250157474,54,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-5",text,false,,1126,1357,10,10,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,54,0,0
+1729250156807,257,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-5",,false,,5630,6785,10,10,null,257,464,12
+1729250157460,69,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-1",text,false,,1126,1302,9,9,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,69,0,0
+1729250156370,693,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-1",,false,,5630,6510,9,9,null,693,466,116
+1729250157567,28,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-6",text,false,,1126,1337,9,9,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,28,0,0
+1729250156913,237,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-6",,false,,5630,6685,9,9,null,237,446,6
+1729250157582,38,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-4",text,false,,1126,1292,8,8,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,38,0,0
+1729250156702,450,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-4",,false,,5630,6460,8,8,null,450,468,8
+1729250157476,148,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-3",text,false,,1126,1303,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,148,0,0
+1729250156597,576,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-3",,false,,5630,6515,7,7,null,576,452,8
+1729250157674,40,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-7",text,false,,1126,1337,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,40,0,0
+1729250157017,245,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-7",,false,,5630,6685,7,7,null,245,452,12
+1729250157734,38,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-8",text,false,,1126,1337,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,38,0,0
+1729250157124,208,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-8",,false,,5630,6685,7,7,null,208,440,6
+1729250157870,35,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-9",text,false,,1126,1337,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,35,0,0
+1729250157233,213,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-9",,false,,5630,6685,7,7,null,213,459,6
+1729250157961,30,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-10",text,false,,1126,1337,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,30,0,0
+1729250157340,192,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-10",,false,,5630,6685,7,7,null,192,459,10
+1729250158082,34,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-11",text,false,,1126,1337,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,34,0,0
+1729250157449,212,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-11",,false,,5630,6685,7,7,null,212,456,30
+1729250158157,53,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-12",text,false,,1126,1337,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,53,0,0
+1729250157556,195,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-12",,false,,5630,6685,7,7,null,195,459,6
+1729250158295,32,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-13",text,false,,1126,1337,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,32,0,0
+1729250157662,215,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-13",,false,,5630,6685,7,7,null,215,451,7
+1729250158387,37,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-14",text,false,,1126,1337,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,37,0,0
+1729250157769,200,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-14",,false,,5630,6685,7,7,null,200,455,8
+1729250158508,33,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-15",text,false,,1126,1337,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,33,0,0
+1729250157875,210,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-15",,false,,5630,6685,7,7,null,210,456,6
+1729250158614,42,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-16",text,false,,1126,1337,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,42,0,0
+1729250157980,214,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-16",,false,,5630,6685,7,7,null,214,462,15
+1729250158721,49,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-17",text,false,,1126,1337,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,49,0,0
+1729250158086,226,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-17",,false,,5630,6685,7,7,null,226,459,5
+1729250158828,40,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-18",text,false,,1126,1337,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,40,0,0
+1729250158193,226,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-18",,false,,5630,6685,7,7,null,226,450,5
+1729250158951,29,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-19",text,false,,1126,1337,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,29,0,0
+1729250158300,232,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-19",,false,,5630,6685,7,7,null,232,449,10
+1729250159056,38,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-20",text,false,,1126,1337,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,38,0,0
+1729250158406,244,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-20",,false,,5630,6685,7,7,null,244,444,10
+1729250159148,39,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-21",text,false,,1126,1337,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,39,0,0
+1729250158515,233,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-21",,false,,5630,6685,7,7,null,233,439,6
+1729250159223,32,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-22",text,false,,1126,1337,6,6,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,32,0,0
+1729250158633,166,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-22",,false,,5630,6685,6,6,null,166,456,5
+1729250159345,45,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-23",text,false,,1126,1378,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,45,0,0
+1729250158740,187,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-23",,false,,5630,6890,7,7,null,187,464,11
+1729250159484,34,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-24",text,false,,1126,1375,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,34,0,0
+1729250158848,215,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-24",,false,,5630,6875,7,7,null,215,455,25
+1729250159605,32,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-25",text,false,,1126,1296,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,32,0,0
+1729250158953,224,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-25",,false,,5630,6480,7,7,null,224,460,13
+1729250159728,65,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-26",text,false,,1126,1298,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,65,0,0
+1729250159060,267,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-26",,false,,5630,6490,7,7,null,267,467,14
+1729250159758,44,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-27",text,false,,1126,1296,6,6,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,44,0,0
+1729250159167,184,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-27",,false,,5630,6480,6,6,null,184,451,11
+1729250159894,35,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-28",text,false,,1126,1297,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,35,0,0
+1729250159273,198,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-28",,false,,5630,6485,7,7,null,198,459,14
+1729250160017,36,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-29",text,false,,1126,1292,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,36,0,0
+1729250159384,206,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-29",,false,,5630,6460,7,7,null,206,463,10
+1729250160078,60,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-30",text,false,,1126,1301,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,60,0,0
+1729250159488,183,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-30",,false,,5630,6505,7,7,null,183,468,5
+1729250160229,31,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-31",text,false,,1126,1308,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,31,0,0
+1729250159596,195,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-31",,false,,5630,6540,7,7,null,195,470,10
+1729250160289,41,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-32",text,false,,1126,1296,6,6,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,41,0,0
+1729250159704,172,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-32",,false,,5630,6480,6,6,null,172,454,10
+1729250160394,40,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-33",text,false,,1126,1295,6,6,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,40,0,0
+1729250159810,183,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-33",,false,,5630,6475,6,6,null,182,441,6
+1729250160530,28,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-34",text,false,,1126,1292,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,28,0,0
+1729250159915,197,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-34",,false,,5630,6460,7,7,null,197,447,9
+1729250160636,33,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-35",text,false,,1126,1298,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,33,0,0
+1729250160023,203,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-35",,false,,5630,6490,7,7,null,203,444,36
+1729250160712,28,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-36",text,false,,1126,1296,6,6,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,28,0,0
+1729250160129,147,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-36",,false,,5630,6480,6,6,null,147,464,7
+1729250160820,28,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-37",text,false,,1126,1294,6,6,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,28,0,0
+1729250160235,165,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-37",,false,,5630,6470,6,6,null,165,455,4
+1729250160943,31,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-38",text,false,,1126,1295,6,6,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,31,0,0
+1729250160339,172,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-38",,false,,5630,6475,6,6,null,172,464,9
+1729250161049,42,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-39",text,false,,1126,1299,6,6,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,42,0,0
+1729250160446,189,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-39",,false,,5630,6495,6,6,null,189,457,7
+1729250161185,34,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-40",text,false,,1126,1300,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,34,0,0
+1729250160551,196,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-40",,false,,5630,6500,7,7,null,196,472,5
+1729250160765,177,VTC,,"Number of samples in transaction : 6, number of failing samples : 4","Creation - Role, Employee and Office 1-42",,false,,4504,5184,6,6,null,177,394,8
+1729250161307,28,Final Loop - CreateOrUpdateCsdHierElmVtc,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,"Creation - Role, Employee and Office 1-41",text,false,,2699,0,7,7,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,0,0,0
+1729250160655,204,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-41",,false,,7203,5180,7,7,null,176,477,7
+1729250161964,28,Final Loop - CreateOrUpdateCsdHierElmVtc,200,,"Creation - Role, Employee and Office 1-48",text,false,,1126,1295,1,1,http://172.16.8.56:8001/api-gateway/api/v1/createOrUpdateCsdHierElmVtc,28,0,0
+1729250161345,196,VTC,,"Number of samples in transaction : 6, number of failing samples : 5","Creation - Role, Employee and Office 1-48",,false,,5630,6475,1,1,null,196,452,7

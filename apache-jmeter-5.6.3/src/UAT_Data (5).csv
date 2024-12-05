@@ -1,0 +1,4 @@
+S.No,Stage,user_id,borrower_name,pincode,marital_status,Account type(HDFC/OTHER/NO),account_no_los,ifsc_code,user_id_CFE,user_id_L6,user_id_FLCC
+1,Customer Onboarding,38,HARISH,560002,MARRIED,HDFC,50100114499585,NA,23818,154,133
+2,Customer Onboarding,38,HARISH,560002,MARRIED,HDFC,50100114499586,NA,23818,154,133
+3,Customer Onboarding,38,HARISH,560002,MARRIED,HDFC,50100114499587,NA,23818,154,133

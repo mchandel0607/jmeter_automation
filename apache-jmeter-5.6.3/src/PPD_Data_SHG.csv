@@ -1,0 +1,4 @@
+S.No,Stage,so_user_id,borrower_name,borrower_name_2,group_name,pincode,marital_status,Account type(HDFC/OTHER/NO),account_no_los,account_no_los_2,account_no_los_G,ifsc_code,user_id_CFE,user_id_L6,user_id_FLCC,vtc
+1,Customer Onboarding,40,BHAV DHAW,JYOTZ DHAW,DCC Document,560060,MARRIED,HDFC,50100115838927,50100115838930,50100103312158,NA,204,319,42,Kengeri
+2,Customer Onboarding,40,BHAV DHAW,JYOTZ DHAW,DCC Document,560060,MARRIED,HDFC,50100115838927,50100115838930,50100103312158,NA,204,319,42,Kengeri
+3,Customer Onboarding,40,BHAV DHAW,JYOTZ DHAW,DCC Document,560060,MARRIED,HDFC,50100115838927,50100115838930,50100103312158,NA,204,319,42,Kengeri

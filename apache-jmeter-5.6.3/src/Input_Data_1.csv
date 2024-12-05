@@ -1,0 +1,4 @@
+S.No,Stage,formatted_id,borrower_name,vtc_name,pincode,marital_status,Account type(HDFC/OTHER/NO),Account details,ifsc_code,account_no_los,loan_product_id,formatted_id_CFE,office_id,product_document_id,product_document_id_1,product_document_id_2,product_document_id_3,formatted_id_L6,formatted_id_FLCC
+1,Customer Onboarding,EMPL101,HARISH,Bangalore City,560002,MARRIED,HDFC,50100114499585,NA,50100114472191,44,AUTOCFEUSER4,2,965,973,752,950,EON7550410EC,EMU6658410EC
+1,Customer Onboarding,EMPL101,HARISH,Bangalore City,560002,MARRIED,HDFC,50100114499585,NA,50100114472192,44,AUTOCFEUSER4,2,965,973,752,950,EON7550410EC,EMU6658410EC
+1,Customer Onboarding,EMPL101,HARISH,Bangalore City,560002,MARRIED,HDFC,50100114499585,NA,50100114472193,44,AUTOCFEUSER4,2,965,973,752,950,EON7550410EC,EMU6658410EC

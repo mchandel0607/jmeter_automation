@@ -1,0 +1,4 @@
+S.No,Stage,user_id,borrower_name,pincode,marital_status,Account type(HDFC/OTHER/NO),account_no_los,ifsc_code,user_id_CFE,user_id_L6,user_id_FLCC,vtc
+1,Customer Onboarding,40,Bbhav Dhaw,560007,MARRIED,HDFC,50100115838927,NA,204,319,42,Agram
+2,Customer Onboarding,40,Bbhav Dhaw,560060,MARRIED,HDFC,50100115838928,NA,5168,319,42,KENGERI
+3,Customer Onboarding,40,Bbhav Dhaw,560007,MARRIED,HDFC,50100115838929,NA,204,319,42,Agram
